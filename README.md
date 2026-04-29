@@ -37,4 +37,4 @@ This project demonstrates real-world backend development concepts such as REST A
 * entity
 
 ## Author
-Sanga halder
+Sanga Halder
